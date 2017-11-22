@@ -24,6 +24,7 @@ write.write_crys_input("crys_pbe0.in")
 
 #Need to add
 '''
+SYMMETRY GROUP
 SUPERCON (vs SUPERCEL)
 MODISYMM
 Make sure basis cutoff is okay
